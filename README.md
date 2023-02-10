@@ -2,6 +2,7 @@
 ## Pastoral Books
  | Code | Title. | Author. | Date | Lang
  |--------|--------|--------|--------|--------
+ | [P31] | Pastor's Manual | American Madura Mission. | 1880 | ENG, TAM |
  | [P41] | Lectures on the History of Preaching. | John A. Broadus. | 1893 | ENG
  | [P41] | Lectures on the History of Preaching. | John Ker. | 1889 | ENG
  | [P42] | Theory of Preaching. Lectures on Homiletics. | Austin Phelps. | 1881 | ENG
